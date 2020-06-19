@@ -8,7 +8,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Mateo
+ * @author alex
  */
 public class FrmPrincipal extends javax.swing.JFrame {
     

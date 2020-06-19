@@ -1,8 +1,1 @@
-{"Nombre":"Luis Paredes","Edad":"23","Sexo":"Hombre"}
-{"Nombre":"Luis Paredes","Edad":"45","Sexo":"Hombre"}
-{"Nombre":"Enrique Fernandez","Edad":"45","Sexo":"Hombre"}
-{"Nombre":"Enrique Fernandez","Edad":"25","Sexo":"Hombre"}
-{"Nombre":"Enrique Fernandez","Edad":"15","Sexo":"Hombre"}
-{"Nombre":"Daniela Miranda","Edad":"19","Sexo":"Mujer"}
-{"Nombre":"Daniela Miranda","Edad":"23","Sexo":"Mujer"}
-{"Nombre":"Daniela Miranda","Edad":"27","Sexo":"Mujer"}
+{"Nombre":"daniel","Edad":"22","Sexo":"hombre"}

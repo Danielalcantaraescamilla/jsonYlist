@@ -2,7 +2,7 @@ package archivoslist;
 
 /**
  *
- * @author Mateo
+ * @author alex
  */
 public class Atributos {
     
